@@ -1,4 +1,5 @@
 # .NET Conf Focus on AI
+.NET Conf Focus on AI 2024 is a wrap! Check out [recordings of the full event on YouTube](https://www.youtube.com/watch?v=0btB9W04y0Q&list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR).
 
 Here you can find content for the .NET Conf Focus on AI event.  Take a look in the [Technical folder](Technical) for the collection of slides from this event
 
